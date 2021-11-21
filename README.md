@@ -1,5 +1,3 @@
-# NoFrames-Debug
-Debug für NoFrames Gameserver
 <h1> NoFrames Bugtracker </h1>
 <h2> How to: Einen Bug reporten </h2>
 
